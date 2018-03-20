@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iisjdee read code</string>
+
+
+    <string name="Login_name">ลงชื่อเข้าใช้</string>
+    <string name="register">สมัครใช้งาน</string>
+</resources>
