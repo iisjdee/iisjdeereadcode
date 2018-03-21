@@ -5,6 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="iisjdee.ms.ac.th.iisjdeereadcode.MainActivity">
+    <!--wallpaper-->
+    <ImageView
+        android:src="@drawable/bg4"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
     <FrameLayout
         android:id="@+id/contentMainFragment"
         android:layout_width="match_parent"
